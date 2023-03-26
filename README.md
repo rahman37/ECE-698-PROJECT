@@ -17,6 +17,4 @@ Paper 2:
 
 An individual project has been assigned to me as a requirement for my course, and the topic assigned is related to self-driving/autonomous cars. The project involves conducting research and presenting a research paper on this topic.
 
-The following link leads to the PowerPoint presentation which I have created.
-
-https://github.com/rahman37/ECE-698-PROJECT/issues/1#issue-1641099465
+This is the link to the issue number 1 in the ECE-698-PROJECT repository on GitHub: https://github.com/rahman37/ECE-698-PROJECT/issues/1#issue-1641099465
